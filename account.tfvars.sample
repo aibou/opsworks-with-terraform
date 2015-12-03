@@ -1,0 +1,3 @@
+aws_access_key="your iam key"
+aws_secret_key="your iam secret key"
+aws_region="your default region (ex: ap-northeast-1)"
